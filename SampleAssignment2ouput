@@ -1,0 +1,109 @@
+This program will compute the political parties of students that registered in a survey group. 
+Enter the Survey group ID, the amount of Democrats registered, amount that registered as Republican, and students who did not registered 
+To stop, enter a negative value of survey group ID. 
+3445 
+How many Democrats registered? 25
+How many Republicans registered? 0
+How many students did not register? 0
+survey group of 3445 results 25 Democrats 0 Republican 0 not registered
+total number of students is 25
+This survey group is complete
+Democrat ratio is   1.0000  Republican ratio is  0.0000  did not register  0.0000
+Number who did not register is not greater than the number who registered as Democrat
+Number who did not register is greater than or equal number who registered as Republican
+final political score is 25
+
+
+4567
+How many Democrats registered? 0
+How many Republicans registered? 25
+How many students did not register? 0
+survey group of 4567 results 0 Democrats 25 Republican 0 not registered
+total number of students is 25
+This survey group is complete
+Democrat ratio is   0.0000  Republican ratio is  1.0000  did not register  0.0000
+Number who did not register is not greater than the number who registered as Democrat
+Number who did not register is not greater than equal to number who registered as Republican
+final political score is 25
+
+
+7544
+How many Democrats registered? 0
+How many Republicans registered? 0
+How many students did not register? 25
+survey group of 7544 results 0 Democrats 0 Republican 25 not registered
+total number of students is 25
+This survey group is complete
+Democrat ratio is   0.0000  Republican ratio is  0.0000  did not register  1.0000
+Number who did not register is greater than the number who registered as Democrat
+Number who did not register is greater than or equal number who registered as Republican
+final political score is 0
+
+
+5432
+How many Democrats registered? 3
+How many Republicans registered? 5
+How many students did not register? 7
+survey group of 5432 results 3 Democrats 5 Republican 7 not registered
+total number of students is 15
+there are 10 needed to reach 25 
+Democrat ratio is   0.3000  Republican ratio is  0.5000  did not register  0.7000
+Number who did not register is greater than the number who registered as Democrat
+Number who did not register is greater than or equal number who registered as Republican
+final political score is 0
+
+
+5443
+How many Democrats registered? 13
+How many Republicans registered? 18
+How many students did not register? 26
+survey group of 5443 results 13 Democrats 18 Republican 26 not registered
+total number of students is 57
+This survey group is complete
+Democrat ratio is   0.2281  Republican ratio is  0.3158  did not register  0.4561
+Number who did not register is greater than the number who registered as Democrat
+Number who did not register is greater than or equal number who registered as Republican
+final political score is 0
+
+
+54322
+How many Democrats registered? 7
+How many Republicans registered? 8
+How many students did not register? 11
+survey group of 54322 results 7 Democrats 8 Republican 11 not registered
+total number of students is 26
+This survey group is complete
+Democrat ratio is   0.2692  Republican ratio is  0.3077  did not register  0.4231
+Number who did not register is greater than the number who registered as Democrat
+Number who did not register is greater than or equal number who registered as Republican
+final political score is 0
+
+
+3445
+How many Democrats registered? 8
+How many Republicans registered? 3
+How many students did not register? 2
+survey group of 3445 results 8 Democrats 3 Republican 2 not registered
+total number of students is 13
+there are 12 needed to reach 25 
+Democrat ratio is   0.6667  Republican ratio is  0.2500  did not register  0.1667
+Number who did not register is not greater than the number who registered as Democrat
+Number who did not register is not greater than equal to number who registered as Republican
+final political score is 5
+
+
+5433
+How many Democrats registered? 4
+How many Republicans registered? 8
+How many students did not register? 9
+survey group of 5433 results 4 Democrats 8 Republican 9 not registered
+total number of students is 21
+there are 4 needed to reach 25 
+Democrat ratio is   1.0000  Republican ratio is  2.0000  did not register  2.2500
+Number who did not register is greater than the number who registered as Democrat
+Number who did not register is greater than or equal number who registered as Republican
+final political score is 0
+
+
+-4
+The total number of surveys group that have been processed in my program are  8
